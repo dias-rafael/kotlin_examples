@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f760494-f54a-40df-8976-b0434e6d16fd" name="Changes" comment="Interações Map e Operador IN">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Excecoes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Idades.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8f760494-f54a-40df-8976-b0434e6d16fd" name="Changes" comment="Lançar/Tratar Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Colecoes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ExcecoesKt">
+  <component name="RunManager" selected="Kotlin.ColecoesKt">
+    <configuration name="ColecoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColecoesKt" />
+      <module name="ExemplosBasicos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExcecoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExcecoesKt" />
       <module name="ExemplosBasicos" />
@@ -73,13 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileKt" />
-      <module name="ExemplosBasicos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ExemplosBasicos" />
       <method v="2">
@@ -95,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ColecoesKt" />
         <item itemvalue="Kotlin.ExcecoesKt" />
         <item itemvalue="Kotlin.InOperatorKt" />
         <item itemvalue="Kotlin.MapsKt" />
         <item itemvalue="Kotlin.ForKt" />
-        <item itemvalue="Kotlin.WhileKt" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651789396829</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lançar/Tratar Exceptions">
+      <created>1651790475921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651790475921</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +180,7 @@
     <MESSAGE value="Smart Cast e bloco com ramificação" />
     <MESSAGE value="Laços repetições" />
     <MESSAGE value="Interações Map e Operador IN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interações Map e Operador IN" />
+    <MESSAGE value="Lançar/Tratar Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lançar/Tratar Exceptions" />
   </component>
 </project>

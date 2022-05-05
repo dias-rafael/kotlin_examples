@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f760494-f54a-40df-8976-b0434e6d16fd" name="Changes" comment="Smart Cast e bloco com ramificação">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/While.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8f760494-f54a-40df-8976-b0434e6d16fd" name="Changes" comment="Laços repetições">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Maps.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +42,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ForKt">
-    <configuration name="EnumsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumsKt" />
-      <module name="ExemplosBasicos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.InOperatorKt">
     <configuration name="ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForKt" />
       <module name="ExemplosBasicos" />
@@ -59,15 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmartCastKt" />
+    <configuration name="InOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InOperatorKt" />
       <module name="ExemplosBasicos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+    <configuration name="MapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsKt" />
+      <module name="ExemplosBasicos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmartCastKt" />
       <module name="ExemplosBasicos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InOperatorKt" />
+        <item itemvalue="Kotlin.MapsKt" />
         <item itemvalue="Kotlin.ForKt" />
         <item itemvalue="Kotlin.WhileKt" />
         <item itemvalue="Kotlin.SmartCastKt" />
-        <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.EnumsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651787245135</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Laços repetições">
+      <created>1651788669507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651788669507</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +164,7 @@
     <MESSAGE value="Assessor customizado&#10;Pacotes" />
     <MESSAGE value="Enums e When" />
     <MESSAGE value="Smart Cast e bloco com ramificação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Smart Cast e bloco com ramificação" />
+    <MESSAGE value="Laços repetições" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laços repetições" />
   </component>
 </project>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f760494-f54a-40df-8976-b0434e6d16fd" name="Changes" comment="Assessor customizado&#10;Pacotes">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Enums.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+    <list default="true" id="8f760494-f54a-40df-8976-b0434e6d16fd" name="Changes" comment="Enums e When">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SmartCast.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhenKt">
+  <component name="RunManager" selected="Kotlin.SmartCastKt">
     <configuration name="EnumsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumsKt" />
       <module name="ExemplosBasicos" />
@@ -59,15 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemplosClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExemplosClassesKt" />
+    <configuration name="PacoteBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rafaeldias.pacotea.PacoteBKt" />
       <module name="ExemplosBasicos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PacoteBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rafaeldias.pacotea.PacoteBKt" />
+    <configuration name="SmartCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmartCastKt" />
       <module name="ExemplosBasicos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SmartCastKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.EnumsKt" />
         <item itemvalue="Kotlin.PacoteBKt" />
         <item itemvalue="Kotlin.ExemploAssessorCustomizadoKt" />
-        <item itemvalue="Kotlin.ExemplosClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651702963075</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Enums e When">
+      <created>1651753527420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651753527420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exemplos de Kotlin" />
     <MESSAGE value="Assessor customizado&#10;Pacotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assessor customizado&#10;Pacotes" />
+    <MESSAGE value="Enums e When" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enums e When" />
   </component>
 </project>
